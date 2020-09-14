@@ -19,3 +19,6 @@ eu tambem gosto muito de naruto então fui em busca de um curso de desenho chama
 
 
 ![kiba](kibafanart.jpg)
+
+
+![sasori](sasorifanart.jpg)
