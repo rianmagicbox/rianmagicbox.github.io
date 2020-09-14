@@ -12,4 +12,4 @@ o codigo foi feito no makecode para micro:bit e esta disponivel [aqui](https://m
 ## scratch
 
 eu faço tambem projetos no scratch,
-veja meus projetos [aqui!](https://scratch.mit.edu/users/rian444/)
+veja meus projetos [![aqui](Captura de tela 2020-09-14 121603.png)](https://scratch.mit.edu/users/rian444/)
