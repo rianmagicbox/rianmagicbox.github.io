@@ -16,3 +16,6 @@ veja meus projetos [aqui](https://scratch.mit.edu/users/rian444/)
 ![demo](demoscratch.png)
 ## fanart
 eu tambem gosto muito de naruto então fui em busca de um curso de desenho chamado fanart 2.0 (mais ainda não terminei) veja estas imagens:
+
+
+![kiba](kibafanart.jpg)
