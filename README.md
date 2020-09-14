@@ -8,3 +8,8 @@ estou trabalhando num projeto de um cubo de led estou mechendo com ele faz 3 mes
 
 ### codigo
 o codigo foi feito no makecode para micro:bit e esta disponivel [aqui](https://makecode.microbit.org/_ERJF1tU7gd7P)
+
+## scratch
+
+eu faço tambem projetos no scratch,
+veja meus projetos [aqui!](https://scratch.mit.edu/users/rian444/)
