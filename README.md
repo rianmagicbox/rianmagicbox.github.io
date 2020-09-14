@@ -1,7 +1,8 @@
 # introdução
-aprendendo github.
 meu nome é rian tenho 11 anos e sou [youtuber gamer](https://www.youtube.com/channel/UC17rGqWCWZCaYqCSdwNYZeQ?view_as=subscriber).
-[![RMB](WIN_20200419_17_24_20_Pro.jpg)](https://www.youtube.com/channel/UC17rGqWCWZCaYqCSdwNYZeQ?view_as=subscriber) alem de ser youtuber tambem mexo com robotica.
+[![RMB](WIN_20200419_17_24_20_Pro.jpg)](https://www.youtube.com/channel/UC17rGqWCWZCaYqCSdwNYZeQ?view_as=subscriber) 
+
+alem de ser youtuber tambem faço projetos de robotica, scratch e fanart.
 ## cubo de led 
 estou trabalhando num projeto de um cubo de led estou mechendo com ele faz 3 meses.
 ![cubo de led](P_20200907_210737.jpg)
