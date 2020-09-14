@@ -6,5 +6,5 @@ meu nome é rian tenho 11 anos e sou [youtuber gamer](https://www.youtube.com/ch
 estou trabalhando num projeto de um cubo de led estou mechendo com ele faz 3 meses.
 ![cubo de led](P_20200907_210737.jpg)
 
-## codigo
-[codigo do cubo](https://makecode.microbit.org/_ERJF1tU7gd7P)
+### codigo
+o codigo foi feito no makecode para micro:bit e esta disponivel [aqui](https://makecode.microbit.org/_ERJF1tU7gd7P)
